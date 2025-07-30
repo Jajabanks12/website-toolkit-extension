@@ -22,3 +22,11 @@ Perfect for keeping all your favorite sites sorted by project, mood, or workflow
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/<your-username>/website-toolkit-extension.git
+Open Chrome and go to chrome://extensions/
+
+Turn on Developer Mode (top right).
+
+Click Load Unpacked and select the website-toolkit-extension folder.
+
+The extension will appear in your toolbar – pin it for easy access!
+
